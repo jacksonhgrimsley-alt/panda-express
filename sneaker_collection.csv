@@ -1,0 +1,6 @@
+sneaker_id,brand,model,size,colorway,release_year,purchase_price,condition,date_added,is_favorite
+1,Nike,Air Force 1,10.5,White/White,2007,110.99,Good,2024-01-15,True
+2,Jordan,Retro 1 High,11.0,Bred,1985,170.0,Excellent,2024-02-10,True
+3,Adidas,Yeezy Boost 350,9.5,Zebra,2017,220.5,New,2024-03-05,False
+4,New Balance,990v6,10.0,Grey,2022,199.99,Very Good,2024-04-20,True
+5,Reebok,Classic Leather,10.5,White/Gum,1983,89.95,Fair,2024-05-12,False
